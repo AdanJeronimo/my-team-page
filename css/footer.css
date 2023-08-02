@@ -1,0 +1,13 @@
+.footer{
+    font-family: var(--montserrat);
+    text-align: center;
+    color: #A9A9A9;
+    font-size: 1.4rem;
+    margin: 11.5rem 0 2rem;
+}
+@media all and (max-width:460px){
+    .footer{
+        font-size: 1.0rem;
+        margin: 5rem 0 2rem 0;
+    }
+}
